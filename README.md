@@ -24,5 +24,15 @@ My name is Jawher, and I craft data-driven solutions with Python, blending curio
 📫 How to reach me: [Email](rjabjawher@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jawher-rjab/)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/jahwer001/jahwer001/output/snake.svg" alt="Snake animation" />
+
+###
 
