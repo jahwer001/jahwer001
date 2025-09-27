@@ -82,11 +82,11 @@ My name is Jawher, and I craft data-driven solutions with Python, blending curio
 
 
 
-<div align="center">
+
   
-  ![snake gif](https://github.com/jahwer001/jahwer001/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/jahwer001/jahwer001/blob/output/github-snake-dark.svg) -->
   
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph-dark.svg">
