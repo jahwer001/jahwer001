@@ -20,8 +20,8 @@ My name is Jawher, and I craft data-driven solutions with Python, blending curio
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahwer001&" alt="jahwer001" /></div>
 
 
-<h3 align="left">Languages and Tools:</h3>
 
+<h2 align="center">Languages and Tools:</h1>
 
 ###
 
@@ -52,7 +52,7 @@ My name is Jawher, and I craft data-driven solutions with Python, blending curio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<h2 align="center">Tech Stack,</h1>
+<h2 align="center">Tech Stack:</h1>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
