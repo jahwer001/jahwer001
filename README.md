@@ -84,19 +84,21 @@ My name is Jawher, and I craft data-driven solutions with Python, blending curio
 
 
   
-<!-- ![snake gif](https://github.com/jahwer001/jahwer001/blob/output/github-snake-dark.svg) -->
-  
-
-
-###
-
-
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jahwer001/jahwer001/output/pacman-contribution-graph.svg">
 </picture>
+  -->
+  
 
-###
+
+
+<div align="center">
+  
+  ![snake gif](https://github.com/jahwer001/jahwer001/blob/output/github-snake-dark.svg)
+  
+</div>
+
 
 📫 How to reach me: [Email](rjabjawher@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jawher-rjab/)
