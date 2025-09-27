@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -23,6 +23,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # 🔧 Patch the SVG so the animation loops forever
+      - name: Make SVG animation infinite
+        run: |
+          # Ensure file exists
+          if [ -f dist/pacman-contribution-graph.svg ]; then
+            # Add repeatCount="indefinite" to all <animate> tags
+            sed -i 's/<animate /<animate repeatCount="indefinite" /g' dist/pacman-contribution-graph.svg
+            # Add "infinite" to CSS animations (if any)
+            sed -i 's/animation:[ ]*\([^;]*\);/animation: \1 infinite;/g' dist/pacman-contribution-graph.svg
+          fi
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
